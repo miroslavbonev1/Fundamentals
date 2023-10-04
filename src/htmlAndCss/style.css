@@ -1,0 +1,24 @@
+ul{
+    list-style: lower-greek;
+}
+.site-content{
+    width: 900px;
+    margin-left: auto;
+}
+li:hover{
+    visibility: hidden;
+    cursor: pointer;
+}
+#bestMovie{
+    margin-left: 50px;
+}
+.qko{
+    margin-left: 100px;
+}
+a{
+    display: block;
+    background-color: aquamarine;
+}
+div{
+    display: inline-block;
+}
