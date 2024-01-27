@@ -1,9 +1,10 @@
-import javax.swing.text.Document;
+package BitWiseOperations;
+
 import java.util.Scanner;
 
-
-public class htmlCSS {
+public class BasicStuff {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+        
     }
 }
